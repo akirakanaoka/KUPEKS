@@ -37,7 +37,7 @@ C implementation of "Key-updatable Public-key Encryption with Keyword Search"
 (TBD)
 
 ## References
-1. aaaa {#01}
+1. aaaa <a name="01">
 
 ## License
 
