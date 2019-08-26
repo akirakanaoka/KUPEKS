@@ -12,8 +12,9 @@ C implementation of "Key-updatable Public-key Encryption with Keyword Search"
 ### Test
 
 ## List of Components
-| File | Comments|
-|jr-ibe.c | Jutla-Roy Identity-Based Encryption|
+
+| File | Comments |
+| jr-ibe.c | Jutla-Roy Identity-Based Encryption| |
 
 ## Examples
 
