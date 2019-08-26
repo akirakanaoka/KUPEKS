@@ -36,8 +36,8 @@ C implementation of "Key-updatable Public-key Encryption with Keyword Search"
 ## Benchmarks
 (TBD)
 
-##References
-1. aaaa |#01}
+## References
+1. aaaa {#01}
 
 ## License
 
